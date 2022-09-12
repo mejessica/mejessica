@@ -4,7 +4,7 @@
 🌼 Aprendendo database, web, programação java e C
 🦋 Estudante técnico em informática
 📫 ig @mejessica_ / email: jegelsdorf@gmail.com
-🐾 Ela/dela
+
 
 ##
 
