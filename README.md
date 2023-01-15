@@ -8,11 +8,11 @@
 
 ##
 
-<--! <div align="center">
+<!-- <div align="center">
   <a href="https://github.com/mejessica">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mejessica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejessica&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
   
   
 <div style="display: inline_block"><br>
@@ -20,7 +20,7 @@
   <img align="center" alt="Je-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Je-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Je-pic" height="150" style="border-radius:50px;" img src="https://cdn.discordapp.com/attachments/883391380930576414/961027533967613982/download20220306171854.png?width=463&height=463">
-</div> -->
+</div> 
   
   ##
  
