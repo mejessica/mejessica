@@ -6,7 +6,7 @@
 📫 ig @mejessica_ / email: jegelsdorf@gmail.com
 
 
-##
+/*##
 
 <div align="center">
   <a href="https://github.com/mejessica">
@@ -22,7 +22,7 @@
   <img align="right" alt="Je-pic" height="150" style="border-radius:50px;" img src="https://cdn.discordapp.com/attachments/883391380930576414/961027533967613982/download20220306171854.png?width=463&height=463">
 </div>
   
-  ##
+  ##*/
  
 <div> 
 
