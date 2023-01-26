@@ -1,7 +1,7 @@
 ## Oii, aqui é a Jéssica Gelsdorf ou apenas Jé 🤍
 
-🎡 Programação e robótica 
-🌼 Aprendendo database, css, html, js, programação java, robótica.
+🎡 Programação, robótica, front e backend 
+🌼 Aprendendo sempre 
 🦋 Estudante técnico em informática
 
 
