@@ -7,9 +7,9 @@
   
   <br>
   <br>
-  <div align="center">
+ 
      ![giphy](https://github.com/mejessica/mejessica/assets/82670472/9e2ea771-6d22-474f-b4eb-157d45e2031b)
-  </div>
+ 
   <br>
   <br>
   
