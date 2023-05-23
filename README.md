@@ -1,8 +1,8 @@
-## Oii, aqui é a Jéssica Gelsdorf ou apenas Jé 🤍
+## Hello, Devs!!. Aqui é a Jéssica Gelsdorf ou apenas Jé. Bem vindo ao meu perfil GitHub 🤍
 
-🎡 Programação, robótica, front e backend 
-🌼 Aprendendo sempre 
-🦋 Estudante técnico em informática
+🎡 Estudo programação, robótica, front e backend 
+🌼 Aprendendo sempre e ultimamente estou estudando sobre frontend
+🦋 Estudante técnico em informática e Dev Frontend
 🍏 <a href="https://www.frontendmentor.io/profile/mejessica">FrontEnd Mentor</a>
   
 ![giphy](https://github.com/mejessica/mejessica/assets/82670472/7a0d8a5d-62fc-4688-9713-b3342caebd5a)
@@ -21,10 +21,14 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ 
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />       
+  
+  ### Estou aprendendo
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
+   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  
   <img align="right" alt="Je-pic" height="150" style="border-radius:50px;" img src="https://cdn.discordapp.com/attachments/883391380930576414/961027533967613982/download20220306171854.png?width=463&height=463">
 </div> 
  
