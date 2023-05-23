@@ -5,7 +5,7 @@
 🦋 Estudante técnico em informática
 🍏 <a href="https://www.frontendmentor.io/profile/mejessica">FrontEnd Mentor<a/>
 
-<div style="width:100%;height:0;padding-bottom:76%;position:relative;"><iframe src="https://giphy.com/embed/ZvLUtG6BZkBi0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/gossip-girl-programming-hacking-ZvLUtG6BZkBi0">via GIPHY</a></p></iframe></div>
+<div class="tenor-gif-embed" data-postid="23416367" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/playstation-access-psa-robert-pearson-rob-restart-gif-23416367">Playstation Access Psa GIF</a>from <a href="https://tenor.com/search/playstation+access-gifs">Playstation Access GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 ### Sobre mim
   Sou uma estudante de informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento fazendo curso e estudando para aprender cada vez mais. 
