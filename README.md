@@ -7,15 +7,7 @@
 
 ### Sobre mim
   Sou uma estudante de informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento fazendo curso e estudando para aprender cada vez mais. 
-  
-  ##
-
- <div align="center">
-  <a href="https://github.com/mejessica">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mejessica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejessica&layout=compact&langs_count=7&theme=dracula"/>
-</div>  
-   
+ 
    
   ## Linguagens e Tecnologias
   
@@ -29,6 +21,15 @@
   <img align="right" alt="Je-pic" height="150" style="border-radius:50px;" img src="https://cdn.discordapp.com/attachments/883391380930576414/961027533967613982/download20220306171854.png?width=463&height=463">
 </div> 
  
+   
+  ##
+
+ <div align="center">
+  <a href="https://github.com/mejessica">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mejessica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejessica&layout=compact&langs_count=7&theme=dracula"/>
+</div>  
+   
    
   ## Contatos
 <div> 
