@@ -29,7 +29,8 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
    <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
-  <img align="right" alt="Je-pic" height="150" style="border-radius:50px;" img src="https://cdn.discordapp.com/attachments/883391380930576414/961027533967613982/download20220306171854.png?width=463&height=463">
+  <img align="right" alt="Je-pic" height="150" style="border-radius:50px;" img src="![octocat-1684868334477](https://github.com/mejessica/mejessica/assets/82670472/b03ae0d9-df94-41ae-9358-80e4fb5e5e94)
+">
 </div> 
  
    
