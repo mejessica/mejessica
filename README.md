@@ -5,6 +5,8 @@
 🦋 Estudante técnico em informática
 🍏 <a href="https://www.frontendmentor.io/profile/mejessica">FrontEnd Mentor<a/>
 
+<iframe src="https://giphy.com/embed/ZvLUtG6BZkBi0" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gossip-girl-programming-hacking-ZvLUtG6BZkBi0">via GIPHY</a></p>
+  
 ### Sobre mim
   Sou uma estudante de informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento fazendo curso e estudando para aprender cada vez mais. 
  
