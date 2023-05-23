@@ -28,7 +28,7 @@
   ### Estou aprendendo
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
    <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img align="right" alt="eu" height="30" width="40" src="https://discord.com/channels/@me/883391380930576414/1110643903180308520" />
+   <img align="right" alt="eu" height="30" width="40" src="https://cdn.discordapp.com/attachments/883391380930576414/1110643902949638351/octocat-1684868334477.png" />
   
 
   
