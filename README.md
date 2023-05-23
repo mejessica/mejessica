@@ -5,7 +5,7 @@
 🦋 Estudante técnico em informática
 🍏 <a href="https://www.frontendmentor.io/profile/mejessica">FrontEnd Mentor<a/>
   
-<div class="tenor-gif-embed" data-postid="23416367" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/playstation-access-psa-robert-pearson-rob-restart-gif-23416367">Playstation Access Psa GIF</a>from <a href="https://tenor.com/search/playstation+access-gifs">Playstation Access GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
   
 ### Sobre mim
   Sou uma estudante de informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento fazendo curso e estudando para aprender cada vez mais. 
@@ -15,8 +15,8 @@
 
  <div align="center">
   <a href="https://github.com/mejessica">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mejessica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mejessica&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mejessica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>  
    
 <div style="display: inline_block"><br>
