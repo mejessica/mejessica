@@ -6,15 +6,19 @@
 🍏 <a href="https://www.frontendmentor.io/profile/mejessica">FrontEnd Mentor<a/>
   
 
-<link rel="stysheet" href="https://giphy.com/gifs/gossip-girl-programming-hacking-ZvLUtG6BZkBi0">
-
+  <div style="width:100%;height:0;padding-bottom:76%;position:relative;">
+    
+<a href="https://giphy.com/gifs/gossip-girl-programming-hacking-ZvLUtG6BZkBi0">
 <section>
       <figure class="gif">
-            <img src="https://giphy.com/embed/ZvLUtG6BZkBi0">
+            <img src="https://giphy.com/embed/ZvLUtG6BZkBi0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
       </figure>
 </section>
+  </a>
+</div>
 
-
+  
+  
 ### Sobre mim
   Sou uma estudante de informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento fazendo curso e estudando para aprender cada vez mais. 
  
