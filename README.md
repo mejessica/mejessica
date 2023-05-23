@@ -5,9 +5,6 @@
 🦋 Estudante técnico em informática
 🍏 <a href="https://www.frontendmentor.io/profile/mejessica">FrontEnd Mentor<a/>
   
-  <br>
-  <br>
- 
      ![giphy](https://github.com/mejessica/mejessica/assets/82670472/9e2ea771-6d22-474f-b4eb-157d45e2031b)
  
   <br>
