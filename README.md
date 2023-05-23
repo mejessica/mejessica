@@ -31,7 +31,7 @@
 
 </div> 
  
-   <br><img align="center" alt="eu" width="250" src="https://cdn.discordapp.com/attachments/883391380930576414/1110643902949638351/octocat-1684868334477.png" />
+   <br><img align="right" alt="eu" width="250" src="https://cdn.discordapp.com/attachments/883391380930576414/1110643902949638351/octocat-1684868334477.png" />
   
   ## Contatos
 <div> 
