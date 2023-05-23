@@ -4,7 +4,7 @@
 🌼 Aprendendo sempre 
 🦋 Estudante técnico em informática
 🍏 <a href="https://www.frontendmentor.io/profile/mejessica">FrontEnd Mentor<a/>
-
+  
 <div class="tenor-gif-embed" data-postid="23416367" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/playstation-access-psa-robert-pearson-rob-restart-gif-23416367">Playstation Access Psa GIF</a>from <a href="https://tenor.com/search/playstation+access-gifs">Playstation Access GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 ### Sobre mim
