@@ -5,9 +5,7 @@
 🦋 Estudante técnico em informática
 🍏 <a href="https://www.frontendmentor.io/profile/mejessica">FrontEnd Mentor<a/>
   
-<div class="tenor-gif-embed" data-postid="22144154" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href=>Gameboyluke Derp GIF</a>from <a href="https://tenor.com/search/gameboyluke-gifs">Gameboyluke GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
- ![https://tenor.com/view/gameboyluke-derp-hello-gif-22144154](name-of-giphy.gif)
-  
+
 ### Sobre mim
   Sou uma estudante de informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento fazendo curso e estudando para aprender cada vez mais. 
 
