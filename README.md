@@ -8,7 +8,7 @@
 ![giphy](https://github.com/mejessica/mejessica/assets/82670472/7a0d8a5d-62fc-4688-9713-b3342caebd5a)
 
 ### Sobre mim
-  Sou uma estudante de informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento fazendo curso e estudando para aprender cada vez mais. 
+  Sou uma estudante de técnico em informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento web. Espero que goste dos projetos que encontrar aqui!
 
    
   ## Linguagens e Tecnologias
