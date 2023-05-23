@@ -29,8 +29,9 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
    <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   
-  <img align="right" alt="Je-pic" height="150" style="border-radius:50px;" img src="![octocat-1684868334477](https://github.com/mejessica/mejessica/assets/82670472/b03ae0d9-df94-41ae-9358-80e4fb5e5e94)
-">
+  ![octocat-1684868334477](https://github.com/mejessica/mejessica/assets/82670472/ea6bbdc2-b8a7-4fa7-814c-4353f4107aaa)
+
+  
 </div> 
  
    
