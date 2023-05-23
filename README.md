@@ -1,4 +1,4 @@
-## Hello, Devs!! Aqui é a Jéssica Gelsdorf ou apenas Jé. Bem vindo ao meu perfil GitHub 🤍
+## Hello, Devs!! Aqui é a Jéssica Gelsdorf ou apenas Jé. Bem vindo ao meu perfil 🤍
 
 🎡 Estudo programação, robótica, front e backend 
 🌼 Aprendendo sempre e ultimamente estou estudando sobre frontend
