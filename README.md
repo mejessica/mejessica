@@ -3,7 +3,7 @@
 🎡 Estudo programação, robótica, front e backend 
 🌼 Aprendendo sempre e ultimamente estou estudando sobre frontend
 🦋 Estudante técnico em informática e Dev Frontend
-🍏 <a href="https://www.frontendmentor.io/profile/mejessica">Frontend Mentor</a>
+🍏 Acompanhe minhas soluções de projetos do <a href="https://www.frontendmentor.io/profile/mejessica">Frontend Mentor</a>
   
 ![giphy](https://github.com/mejessica/mejessica/assets/82670472/7a0d8a5d-62fc-4688-9713-b3342caebd5a)
 
