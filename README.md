@@ -1,14 +1,14 @@
 ## Hello, Devs!! Aqui é a Jéssica Gelsdorf ou apenas Jé. Bem vindo ao meu perfil 🤍
 
 🎡 Estudo programação, robótica, front e backend 
-🌼 Aprendendo sempre e ultimamente estou estudando sobre frontend
-🦋 Estudante técnico em informática e Dev Web
+🌼 Sempre buscando aprender coisas novas
+🦋 Técnico em informática e Dev
 🍏 Acompanhe minhas soluções de projetos do <a href="https://www.frontendmentor.io/profile/mejessica">Frontend Mentor</a>
   
 ![giphy](https://github.com/mejessica/mejessica/assets/82670472/7a0d8a5d-62fc-4688-9713-b3342caebd5a)
 
 ### Sobre mim
-  Sou uma estudante de técnico em informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento web. Espero que goste dos projetos que encontrar aqui!
+  Sou técnico em informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento. Espero que goste dos projetos que encontrar aqui!
   
   ## Linguagens e Tecnologias
 
