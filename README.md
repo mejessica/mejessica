@@ -21,7 +21,7 @@ Me formei em Técnico em Informática pelo IFRS, o curso que me fez ter interess
 <div style="display: inline_block"><br>
   
   
-   <br><img align="right" alt="eu" width="250" src="https://cdn.discordapp.com/attachments/883391380930576414/1110643902949638351/octocat-1684868334477.png" />
+   <br><img align="right" alt="eu" width="250" src="[https://cdn.discordapp.com/attachments/883391380930576414/1110643902949638351/octocat-1684868334477.png](https://media.discordapp.net/attachments/1098349153756663969/1245922829795463239/octocat-1717121529327.png?ex=665a838e&is=6659320e&hm=c157c92acd264d031aa17e258e26b3d7efb05860a947952d4abc467b0793a500&=&format=webp&quality=lossless&width=468&height=468)" />
   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
