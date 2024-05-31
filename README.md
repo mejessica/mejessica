@@ -8,7 +8,7 @@
 ![giphy](https://github.com/mejessica/mejessica/assets/82670472/7a0d8a5d-62fc-4688-9713-b3342caebd5a)
 
 ### Sobre mim
-  Sou técnico em informática, tenho 19 anos e estou começando minha tragetória na área de desenvolvimento. Espero que goste dos projetos que encontrar aqui!
+Me formei em Técnico em Informática pelo IFRS, o curso que me fez ter interesse na área. Já fui bolsista de projeto com o objetivo de ensinar a programação através da robótiva, assim estimulando o pensamento lógico e a capacidade de pensar por si mesmo dos estudantes. Atualmente, estou participando de um curso fullstack oferecido pelo DevQuest, que tem me proporcionado um aprendizado significativo. Também adoro editar vídeos, faço isso como hobbie no tempo livre. Estou iniciando minha trajetória como programadora e espero que goste dos projetos que encontrar aqui!
   
   ## Linguagens e Tecnologias
 
