@@ -8,7 +8,7 @@
 ![giphy](https://github.com/mejessica/mejessica/assets/82670472/7a0d8a5d-62fc-4688-9713-b3342caebd5a)
 
 ### Sobre mim
-Me formei como Técnica em Informática pelo IFRS, curso que despertou meu interesse pela programação. Atualmente, trabalho com desenvolvimento de software e curso Game Design na ECDD, a fim de ampliar meu conhecimento em programação em diferentes áreas, além de aprofundar meu entendimento em design. Também sou fotógrafa e trabalho com design gráfico.
+Me formei como Técnica em Informática pelo IFRS, curso que despertou meu interesse pela programação. Atualmente, trabalho com desenvolvimento de software e curso Design Gráfico na ECDD, a fim de ampliar meu conhecimento em programação em diferentes áreas, além de aprofundar meu entendimento em design. Também sou fotógrafa e trabalho com criação de identidade visual.
   
   ## Linguagens e Tecnologias
 
@@ -19,8 +19,6 @@ Me formei como Técnica em Informática pelo IFRS, curso que despertou meu inter
 </div>  
    
 <div style="display: inline_block"><br>
-  
-  <!--<br><img align="right" alt="eu" width="250" src="https://media.discordapp.net/attachments/1098349153756663969/1245922829795463239/octocat-1717121529327.png?ex=665a838e&is=6659320e&hm=c157c92acd264d031aa17e258e26b3d7efb05860a947952d4abc467b0793a500&=&format=webp&quality=lossless&width=468&height=468" /><br><br>-->
 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
